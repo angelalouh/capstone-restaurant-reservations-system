@@ -78,7 +78,7 @@ Clicking "OK" on the confirmation dialog will set the status of that reservation
 
 ## Technology
 ### Built with:
-- React.js, CSS, and Bootstrap
+- React.js, JSX, HTML, CSS, Bootstrap5, and Google Fonts.
 
 ### API Interface:
 - Built to interface with: [Capstone Restaurant Reservation System API](https://github.com/angelalouh/capstone-restaurant-reservations-system-api)
